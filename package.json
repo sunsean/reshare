@@ -1,0 +1,11 @@
+{
+  "name": "reshare",
+  "version": "0.0.1",
+  "description": "React shared values",
+  "author": "Sean Catchpole",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sunsean/reshare.git"
+  }
+}
